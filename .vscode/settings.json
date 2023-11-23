@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "glsl-canvas.uniforms": {
+    "u_fov":45,
+    "u_cameraPosition":[0,0,10],
+    "u_dotSize":0.3,
+    "u_smoothValue":0.8
+  }
+}

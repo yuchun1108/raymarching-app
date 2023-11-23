@@ -10,9 +10,13 @@
     "@types/node": "^16.18.61",
     "@types/react": "^18.2.37",
     "@types/react-dom": "^18.2.15",
+    "@types/seedrandom": "^3.0.8",
+    "@types/three": "^0.158.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "seedrandom": "^3.0.5",
+    "three": "^0.158.0",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
